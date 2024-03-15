@@ -2,17 +2,17 @@ let player = document.getElementById("player");
 
 
 function channelUCV(){
-    player.setAttribute('src','https://rudo.video/live/ucvtv2');
+    player.setAttribute('src','https://www.youtube.com/watch?v=aRbj2MzaCFA');
 }
 function channelTVMas(){
-    player.setAttribute('src','https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?jsapi=true&loop=false&autoplay=true&controls=true&player=5c0e87c403a35601ebcffcf4&access_token=FLKY2GFWDawvuNPbOSp4AgTDVTN5bUhMhJbDNTySSNm6ElTQoAw8Jbiz8IhPqpxxvidUQFQCc1p');
+    player.setAttribute('src','https://www.youtube.com/watch?v=aRbj2MzaCFA');
 }
 
 function channelMeganoticias(){
-    player.setAttribute('src','https://www.youtube.com/embed/BDr-rxo-Jio?autoplay=1&controls=0&rel=0');
+    player.setAttribute('src','https://www.youtube.com/embed/VNZuTrvXfPE?autoplay=1&controls=0&rel=0');
 }
 function channel24h(){
-    player.setAttribute('src','https://www.youtube.com/embed/sjQsjgBt03I?autoplay=1&controls=0');
+    player.setAttribute('src','https://www.youtube.com/embed/QkYBMuB6sco?autoplay=1&controls=0');
 }
 function channelTVN(){
     player.setAttribute('src','https://mdstrm.com/live-stream/57a498c4d7b86d600e5461cb?jsapi=true&autoplay=true&controls=true&volume=100&player=57f40bb4dc5b9f3075c49cfe&access_token=mcuTxzaw1yrrt7wiZkWe88tX8IYWkvfDzISudFAc40qaRXhks5nvY8vBgyb1lEuDkxuAoaldn0z&custom.preroll=sz%3D640x480%26iu%3D%2F317342475%2Ftvn_portada_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3Dhttps%3A%2F%2Ftoken.tvn.cl%26correlator%3D%5Btimestamp%5D&custom.overlay=sz%3D640x480%26iu%3D%2F317342475%2Ftvn_portada_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3Dhttps%3A%2F%2Ftoken.tvn.cl%26correlator%3D%5Btimestamp%5D');
@@ -25,7 +25,7 @@ function channelTrece(){
 }
 
 function channelTtrece(){
-    player.setAttribute('src','https://www.youtube.com/embed/aqPIiyPI10c?autoplay=1&controls=0');
+    player.setAttribute('src','https://www.youtube.com/embed/3PCZFXU6n-M?autoplay=1&controls=0');
 }
 
 function channelTvEducaChile(){
@@ -50,5 +50,5 @@ function func1()
 
 window.onload = () => {
     const player9 = document.getElementById('player-9')
-    player9.setAttribute('src','https://www.youtube.com/embed/JYC0kvUlVXo?autoplay=1');
+    player9.setAttribute('src','https://www.youtube.com/embed/aRbj2MzaCFA?autoplay=1');
 }
